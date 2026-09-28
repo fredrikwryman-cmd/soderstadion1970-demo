@@ -1,0 +1,26 @@
+{
+  "name": "Söderstadion 1970",
+  "short_name": "Söderstadion",
+  "description": "Butik för Söderstadion 1970.",
+  "lang": "sv-SE",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#265739",
+  "background_color": "#17351F",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
